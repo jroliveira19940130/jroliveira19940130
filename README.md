@@ -19,7 +19,7 @@ Languages:<br/>
 
 Web:<br/>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23092E20.svg?style=for-the-badge&logo=fastapi&color=%3c8FCA)
+![FastAPI](https://img.shields.io/badge/fastapi-%23092E20.svg?style=for-the-badge&logo=fastapi&color=%3c8FCA&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node-%23092E20.svg?style=for-the-badge&logo=nodedotjs&color=%3c873a)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next](https://img.shields.io/badge/Next-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
