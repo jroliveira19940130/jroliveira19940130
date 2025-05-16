@@ -1,7 +1,7 @@
 ## Hello, I'm Jose Raimundo Oliveira Da Silva 👋
 I'm a Senior Full Stack Engineer with over 9 years of experience in designing and developing scalable web applications. My main focus is on backend development, particularly using Python, Node.js, Postgre and Mongodb. On the frontend, I have extensive experience with React, Typescript and other modern javascript frameworks. Additionally, I am familiar with Docker, Kubernate to manage applications and Github Actions to automate testing and deployment processes.
 
-My favourite industries are several, mostly ecommerce, hospitality, traveling and AI prompt. Recently I've gained experience integrating AI and machine learning models into applications, collaborating with AI engineers to optimize data pipelines and APIs for better performance.
+My favourite industries are several, mostly ecommerce, hospitality, traveling, CRM using AI. Recently I've gained experience integrating AI and machine learning models into applications, collaborating with AI engineers to optimize data pipelines and APIs for better performance.
 
 Optionally, I have experience in blockchain bots like swap, lending, stacking and PnL bots. I already have deep understanding of the core concepts of blockchain although I don't have much experience in real-world.
 
