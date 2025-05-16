@@ -8,8 +8,9 @@ Optionally, I have experience in blockchain bots like swap, lending, stacking an
 I am committed to delivering high-quality solutions and constructing the project more clear.
 
 ## Skills
-Programming languages:
+Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/Javascript-3776AB?logo=javascript&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
